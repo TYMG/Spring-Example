@@ -1,6 +1,6 @@
 # Spring-Example
 
-## Purpose: Provide a basic example of how Spring and Maven can be used to create a Spring MVC Web Application that can communicate with a Spring Annotation based RESTful Service.
+## Purpose: Provide a basic example of how Spring and Maven can be used to create a Spring MVC Web Application that communicates with a Spring Annotation based RESTful Service.
 
 * Message-Example: Spring MVC Application
   Runs at localhost:8081/SpringMVCExample/
