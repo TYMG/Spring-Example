@@ -1,0 +1,10 @@
+/build/
+/target/
+/target/*
+/Users/
+.prefs
+org.*
+.classpath
+.project
+.jsdtscope
+DS_Store
